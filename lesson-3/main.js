@@ -41,10 +41,6 @@
 // const y = [567, 4321, 2431, 4231, 313, 134, 1423]
 //
 // twonumber(mjmj, y)
+// console.log("фывфывфыв", "1", "231")
 
-function countchar (){
-    const aibek = prompt('сен котcунбу?')
-    console.log(aibek.length)
 
-}
-countchar()
